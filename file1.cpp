@@ -1,5 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	cout<<"Hello World!\n";
+	string s;
+	cout<<"Enter your name : ";
+	cin>>s;
+	cout<<"Hello "<<s<<endl;
 }
